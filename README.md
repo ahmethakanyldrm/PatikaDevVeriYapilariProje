@@ -20,6 +20,4 @@
 
 
 
-## Binary Search Tree Projesi
-### [7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
-	Root=7 7nin soluna 5 5in soluna 1 gelir, 7nin sağına 8 gelir, 1in sağına 3, 5in sağına 6, 1in solun 0, 8in sağına 9, 3ün sağına 4, 3ün soluna 2 gelir.
+
