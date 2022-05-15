@@ -1,22 +1,5 @@
 # VeriYapilariVeAlgoritmalar
 
-## Insertion Sort;
-
-### 1-[22,27,16,2,18,6] -> Insertion Sort
-	1-[16,22,27,2,18,6]
-	2-[2,16,22,27,18,6]
-	3-[2,16,18,22,27,6]
-	4-[2,6,16,18,22,27]
-
-### 2-Big-O Gösterimi
-	O(n²)
-### 3-Time Complexity;
-	Worst Case = n²
-	Average Case = n²
-	Best Case = n
-### 4- Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
-	Average Case
-
 
 
 
